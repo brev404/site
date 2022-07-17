@@ -26,7 +26,7 @@
                 "facebook": true,
                 "google": false,
                 "instapaper": false,
-                "twitter": true,
+                "twitter": false,
                 "vk": false,
                 "weibo": false
             },
