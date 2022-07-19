@@ -24,6 +24,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href));
             }
 <<<<<<< HEAD
+<<<<<<< HEAD
         },
         'weibo': {
             'label': 'Weibo',
@@ -50,6 +51,8 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             }
 =======
 >>>>>>> wip
+=======
+>>>>>>> main
         }
     };
 

@@ -27,10 +27,14 @@
                 "google": false,
                 "instapaper": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "twitter": true,
 =======
                 "twitter": false,
 >>>>>>> wip
+=======
+                "twitter": false,
+>>>>>>> main
                 "vk": false,
                 "weibo": false
             },
