@@ -26,7 +26,11 @@
                 "facebook": true,
                 "google": false,
                 "instapaper": false,
+<<<<<<< HEAD
                 "twitter": true,
+=======
+                "twitter": false,
+>>>>>>> wip
                 "vk": false,
                 "weibo": false
             },

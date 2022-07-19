@@ -23,6 +23,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 e.preventDefault();
                 window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href));
             }
+<<<<<<< HEAD
         },
         'weibo': {
             'label': 'Weibo',
@@ -47,6 +48,8 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 e.preventDefault();
                 window.open('http://vkontakte.ru/share.php?url='+encodeURIComponent(location.href));
             }
+=======
+>>>>>>> wip
         }
     };
 
